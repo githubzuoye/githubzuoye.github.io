@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 18:34:19 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 22:30:12 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySceond</title>
+      <link>/posts/mysceond/</link>
+      <pubDate>Thu, 29 Jun 2023 22:30:12 +0800</pubDate>
+      
+      <guid>/posts/mysceond/</guid>
+      <description>
+        
+          
+            在博客搭建中我遇到的问题 1.用新的方式书写博客不熟练但是简单了了解语法后可以解决 2.用新的方式安装不熟练，通过视频得以解决 3.cmd命令行不熟悉，通过网络搜索解决 4.与GitHub连接时对ku不认识 5.在使用软件GitHub时不知道如何删除和新增库，问学长得以解决 
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Kaiyuanyi</title>
       <link>/posts/kaiyuanyi/</link>
